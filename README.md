@@ -15,6 +15,8 @@ Descrição do Projeto: Construção de um algoritmo de Classificação para cal
   
 Principais ferrramentas: Ciência de Dados, Machine Learning, Classification Algorithms, Propensity Model, XGBoost, Flask, Heroku, Google Sheets
 
+***
+
 <a href="https://github.com/brasil95/rossmann-sales">Previsão de vendas da rede de drogarias Rossmann</a>
   
 Descrição do Projeto: Construção de um algoritmo de Machine Learning para prever vendas com 6 semanas de antecedência em uma rede de farmácias da Europa. O algoritmo de Regressão treinado possui 9,6% de MAPE.
