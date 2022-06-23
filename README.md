@@ -3,16 +3,23 @@
 
 # 🤔 Sobre mim:
 - Apaixonado por dados
+- Amo praticar esportes como: Corrida 🏃, Futebol ⚽ e Basquete 🏀
 - Formado em Engenharia de Produção - <a href= "https://maua.br/"> Instituto Mauá de Tecnologia </a> 
 - Atualmente, aprendendo mais sobre Ciência de Dados e Machine Learning - <a href= "https://www.comunidadedatascience.com/"> Comunidade DS </a> 
 <br>
 
 # 🔭 Alguns dos meus projetos:
+<a href="https://github.com/brasil95/insurance-cross-sell">Rankeamento de clientes para oferta de um seguro de automóvel (cross sell)</a>
+  
+Descrição do Projeto: Construção de um algoritmo de Classificação para calcular a propensão de compra e ordenação de uma lista de potenciais clientes para uma seguradora. O modelo sugerido é 2.66x melhor do que a lista aleatória de oferta, gerando um benefício estimado de $ 143 MM/ano no faturamento.
+  
+Principais ferrramentas: Ciência de Dados, Machine Learning, Classification Algorithms, Propensity Model, XGBoost, Flask, Heroku, Google Sheets
+
 <a href="https://github.com/brasil95/rossmann-sales">Previsão de vendas da rede de drogarias Rossmann</a>
   
 Descrição do Projeto: Construção de um algoritmo de Machine Learning para prever vendas com 6 semanas de antecedência em uma rede de farmácias da Europa. O algoritmo de Regressão treinado possui 9,6% de MAPE.
   
-Principais ferrramentas: Ciência de Dados, Machine Learning, Boruta, XGBoost, Flask, Heroku
+Principais ferrramentas: Ciência de Dados, Machine Learning, Boruta, XGBoost, Flask, Heroku, Telegram Bot
 
  ***
   
