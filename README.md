@@ -5,8 +5,6 @@
 - Apaixonado por dados
 - Amo praticar esportes como: Corrida 🏃, Futebol ⚽ e Basquete 🏀
 - Formado em Engenharia de Produção - <a href= "https://maua.br/"> Instituto Mauá de Tecnologia </a> 
-- Atualmente, aprendendo mais sobre Ciência de Dados e Machine Learning - <a href= "https://www.comunidadedatascience.com/"> Comunidade DS </a> 
-<br>
 
 # 🔭 Alguns dos meus projetos:
 <a href="https://github.com/brasil95/insurance-cross-sell">Rankeamento de clientes para oferta de um seguro de automóvel (cross sell)</a>
